@@ -1,2 +1,0 @@
-# flipped
-Flipped Classroom project
