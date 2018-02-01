@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Calibri";
+    background-color: #bdc3c7;
+}
+
+.barra{
+    background-color: #2c3e50;
+    height: 50px;
+    color:#FFFFFF;
+}
+
+.login{
+    padding: 0.5%;
+}
+
+a:link{
+    color: inherit;
+}
+
+.entrar{
+    background-color: inherit;
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+
+.cadastro{
+    margin-top: 2%;
+    margin-left: 37.5%;
+    background-color: #FFFFFF;
+}
+
+.cadastrar{
+    background-color:#2980b9;
+    color:#FFFFFF;
+    font-weight: bolder;
+    font-size: 12pt;
+}
